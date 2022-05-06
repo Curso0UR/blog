@@ -1,4 +1,4 @@
-[//]: # (BADGES SECTION: change `fastai` with your GitHub username and `fastpages` with the name of your repo)
+[//]: # (BADGES SECTION: change `fastai` with your GitHub username and `fastpages` with the name of your repo )
 
 ![](https://github.com/fastai/fastpages/workflows/CI/badge.svg)
 ![](https://github.com/fastai/fastpages/workflows/GH-Pages%20Status/badge.svg)
