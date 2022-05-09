@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: En esta entrada se muestra cómo trabajar con archivos comprimidos.
-title: Archivos comprimidos.
+title: Archivos comprimidos
 author: Patricia Pascual.
 ---
 
