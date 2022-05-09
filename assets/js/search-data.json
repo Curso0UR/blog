@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "El correo electrónico",
-            "content": "Generalidades . En el siguiente vídeo se presentan generalidades sobre el correo electrónico. . . Enlaces dentro del vídeo: . Ray Tomlinson | Hedy Lamarr | Historia de la @ | . Partes de un mensaje . En el siguiente vídeo se explican las partes que tiene todo mensaje de correo. . . CC y CCO . En el siguiente vídeo se explican las diferencias y particularidades de CC y CCO. . . Estilos de redacción . En el siguiente vídeo se tratan diferentes estilos de redacción que se pueden utilizar al escribir un mensaje. . . Responder y reenviar . En el siguiente vídeo se explican detalles sobre las operaciones Responder y Reenviar. . . Otros consejos . En este último vídeo se dan algunos consejos de uso del correo en la Universidad de La Rioja, sobre privacidad, etc. . .",
-            "url": "https://curso0ur.github.io/blog/markdown/2022/05/06/correo-electronico.html",
-            "relUrl": "/markdown/2022/05/06/correo-electronico.html",
+            "title": "Operadores lógicos",
+            "content": ".",
+            "url": "https://curso0ur.github.io/blog/2022/05/06/operadores-logicos.html",
+            "relUrl": "/2022/05/06/operadores-logicos.html",
             "date": " • May 6, 2022"
         }
         
@@ -13,10 +13,76 @@
   
     
         ,"post1": {
+            "title": "Instalación de programas",
+            "content": ".",
+            "url": "https://curso0ur.github.io/blog/2022/05/06/instalacion-windows.html",
+            "relUrl": "/2022/05/06/instalacion-windows.html",
+            "date": " • May 6, 2022"
+        }
+        
+    
+  
+    
+        ,"post2": {
+            "title": "El correo electrónico",
+            "content": "Generalidades . En el siguiente vídeo se presentan generalidades sobre el correo electrónico. . . Enlaces dentro del vídeo: . Ray Tomlinson | Hedy Lamarr | Historia de la @ | . Partes de un mensaje . En el siguiente vídeo se explican las partes que tiene todo mensaje de correo. . . CC y CCO . En el siguiente vídeo se explican las diferencias y particularidades de CC y CCO. . . Estilos de redacción . En el siguiente vídeo se tratan diferentes estilos de redacción que se pueden utilizar al escribir un mensaje. . . Responder y reenviar . En el siguiente vídeo se explican detalles sobre las operaciones Responder y Reenviar. . . Otros consejos . En este último vídeo se dan algunos consejos de uso del correo en la Universidad de La Rioja, sobre privacidad, etc. . .",
+            "url": "https://curso0ur.github.io/blog/2022/05/06/correo-electronico.html",
+            "relUrl": "/2022/05/06/correo-electronico.html",
+            "date": " • May 6, 2022"
+        }
+        
+    
+  
+    
+        ,"post3": {
+            "title": "Instalación de programas",
+            "content": ".",
+            "url": "https://curso0ur.github.io/blog/2022/05/06/busquedas-google.html",
+            "relUrl": "/2022/05/06/busquedas-google.html",
+            "date": " • May 6, 2022"
+        }
+        
+    
+  
+    
+        ,"post4": {
+            "title": "Archivos comprimidos.",
+            "content": "Básico . En este vídeo sobre archivos comprimidos vamos a tratar las ideas básicas relacionadas con la compresión. . . Demostraciones prácticas . En este vídeo sobre archivos comprimidos vamos a mostrar cómo comprimir y descomprimir con los sistemas operativos Windows, macOS y Linux. . . Avanzado . En este vídeo sobre archivos comprimidos vamos a tratar ideas avanzadas relacionadas con la compresión. . .",
+            "url": "https://curso0ur.github.io/blog/2022/05/06/archivos-comprimidos.html",
+            "relUrl": "/2022/05/06/archivos-comprimidos.html",
+            "date": " • May 6, 2022"
+        }
+        
+    
+  
+    
+        ,"post5": {
             "title": "El administrador de tareas",
             "content": ".",
-            "url": "https://curso0ur.github.io/blog/markdown/2022/05/06/administrador-de-tareas.html",
-            "relUrl": "/markdown/2022/05/06/administrador-de-tareas.html",
+            "url": "https://curso0ur.github.io/blog/2022/05/06/aplicaciones-virtualizadas.html",
+            "relUrl": "/2022/05/06/aplicaciones-virtualizadas.html",
+            "date": " • May 6, 2022"
+        }
+        
+    
+  
+    
+        ,"post6": {
+            "title": "El administrador de tareas",
+            "content": ".",
+            "url": "https://curso0ur.github.io/blog/2022/05/06/administrador-de-tareas.html",
+            "relUrl": "/2022/05/06/administrador-de-tareas.html",
+            "date": " • May 6, 2022"
+        }
+        
+    
+  
+    
+        ,"post7": {
+            "title": "Atajos De Teclado",
+            "content": "Los atajos de teclados son combinaciones de teclas que te permitirán acelerar la ejecución de tareas habituales al trabajar con tu ordenador. En lugar de usar el ratón para seleccionar una opción de algún menú, usando el atajo de teclado adecuado podrás ejecutar directamente la tarea que andabas buscando. . En el teclado de los ordenadores hay algunas teclas especiales que se usan para los atajos de teclado: . Windows Mac . Tecla Windows . | Mayúsculas . | Alternativa (o Alt) . | Control (o Ctrl) . | Función (o Fn) . | . | Comando (o Cmd) . | Mayúsculas . | Opción (o Alt) . | Control (o Ctrl) o . | Fn . | . | . | El explorador de archivos se llama FINDER | . Además, la mayoría de aplicaciones tienen, además de los más comunes, atajos de teclado propios que conviene dominar. . Windows . Gestión de aplicaciones (ventanas)       .   | Cambia a la siguiente app utilizada más recientemente entre las apps que tengas abiertas. |   |   | .   | Pasa a la aplicación/ventana &lt;nº&gt; que tengas abierta |   |   | .   | Minimiza las aplicaciones abiertas y muestra el escritorio (regresa a la visualización anterior, igual) |   |   | .   | Cierra la ventana activa o, si estás en el escritorio, cierra Windows |   |   | .   | Ejecuta el Administrador de archivos |   |   | .   | Muestra un cuadro de diálogo para escribir el nombre de un programa para ejecutarlo |   |   | .   | y empezar a escribir | Busca aplicaciones. Se muestra una lista de aplicaciones cuyo nombre contiene lo escrito. |   | .   |   |   |   | . Gestión del contenido |   |   |   | . Seleccionar (texto, ficheros…) |   |   |   | .   |   | Selecciona todo (ej.: todo el texto de un documento, todos los ficheros de una carpeta…) |   | .   | Al moverse por el contenido con la tecla de Mayús (⇧) pulsada, se selecciona el contenido recorrido. |   |   | .   | Añade a la selección elementos aislados |   |   | .   | Manteniendo Mayús (⇧) pulsada, si haces clic en otro elemento se añaden a la selección todos los elementos que hay entre el último seleccionado y el nuevo pulsado. |   |   | . Copiar – cortar – pegar |   |   |   | .   | Copia lo seleccionado al portapapeles (lo seleccionado permanece en su sitio) |   |   | .   | Corta lo seleccionado y ponerlo en el portapapeles (lo seleccionado desaparece de su sitio) |   |   | .   | Pega lo que haya en el portapapeles |   |   | .   | Acceso al historial de cosas copiadas/cortadas anteriormente en el portapapeles |   |   | .   |   |   |   | . Atajo general | En aplicaciones de Microsoft (Windows/Office) |   |   | . Movimiento por el texto |   |   |   | .   | Va al principio del documento |   |   | .   | Va al final del documento |   |   | .   | Va a la anterior o siguiente palabra del texto |   |   | . Buscar / reemplazar |   |   |   | .   |   | Busca texto en un documento |   | .   |   | Reemplaza texto en un documento |   | .   |   |   |   | . Gestión de archivos desde aplicaciones |   |   |   | .   |   | Abre un documento existente |   | .   |   | Guarda el contenido de un documento |   | .   | Imprime el documento |   |   | .   |   |   |   | . Visualización / capturas pantalla |   |   |   | .   |   | Activa la lupa para acercar o alejar |   | .   | Desactiva la lupa |   |   | .   | Activa el menú de capturas de pantalla |   |   | .   |   |   |   | . Deshacer / Rehacer |   |   |   | .   | Deshace la acción que se acaba de realizar |   |   | .   | Vuelve a hacer la última acción realizada |   |   | .   |   |   |   | . Administración de archivos |   |   |   | .   | Borra un fichero (enviarlo a la papelera) |   |   | .   | Borra un fichero definitivamente (sin enviarlo a la papelera) |   |   | .   | Cambia de nombre a un fichero |   |   | .   |   |   |   | . Miscelánea |   |   |   | . Ej: | Escritura de caracteres “raros” sabido su código ASCII: Alt+cód. ASCII en el teclado numérico. Ej, la ~: Alt+126 |   |   | . … Y en Mac, también . Gestión de aplicaciones     .   | Cambiar a la siguiente app utilizada más recientemente entre las apps que tengas abiertas |   | .   | Forzar la salida de una app |   | .   | Abrir una nueva pestaña |   | .   | Cerrar la ventana que se encuentra en primer plano. Para cerrar todas las ventanas de la app |   | .   | Ocultar las ventanas de la app en 1er plano. Ver la app en 1er plano y ocultar las demás apps |   | .   | Minimizar la ventana en 1er plano al Dock. Minimizar todas las ventanas de la app en 1er plano |   | .   |   |   | . Seleccionar / Copiar – cortar – pegar |   |   | .   | Selecciona todo (ej.: todo el texto de un documento, todos los ficheros de una carpeta…) |   | .   | Copia lo seleccionado al portapapeles (lo seleccionado permanece en su sitio) |   | .   | Corta lo seleccionado y ponerlo en el portapapeles (lo seleccionado desaparece de su sitio) |   | .   | Pega lo que haya en el portapapeles |   | .   |   |   | . Buscar / reemplazar |   |   | .   | Buscar elementos en un documento o abrir una ventana de búsqueda |   | .   | Buscar siguiente, es decir, buscar la siguiente aparición del ítem buscado anteriormente |   | .   | Buscar anterior, es decir, buscar la anterior aparición del ítem buscado anteriormente |   | .   |   |   | . Deshacer / Rehacer |   |   | .   | Deshacer la acción que se acaba de realizar |   | .   | Rehacer, así se invertirá el comando Deshacer |   | .   |   |   | . Administración de archivos con Finder |   |   | .   | Abre el elemento seleccionado, o abrir un cuadro de diálogo para seleccionar el archivo que se va a abrir |   | .   | Crear una carpeta nueva en el Finder |   | .   | Abrir una ventana nueva del Finder |   | .   | Vaciar la papelera |   | .   | Duplicar los archivos seleccionados |   | .   | Expulsar el disco o el volumen seleccionado |   | .   | Obtener información sobre el archivo activo (se abrirá una ventana de Finder con la información) |   | .   |   |   | . Navegación en carpetas de Finder |   |   | .   | Ir a la carpeta anterior |   | .   | Ir a la carpeta siguiente |   | .   | Abrir la carpeta que contiene la carpeta actual |   | .   | Abrir la carpeta que contiene la carpeta actual en una ventana nueva |   | .   | Abrir el elemento seleccionado |   | .   | Abrir la carpeta Aplicaciones |   | .   | Abrir la carpeta Escritorio |   | .   |   |   | . Gestión de archivos desde aplicaciones |   |   | .   | Guarda documento activo |   | .   | Imprime el documento activo |   | .   |   |   | . Visualización / capturas pantalla |   |   | .   |   | Hacer zoom (+ aumentar; - disminuir) | .   | Usar la app en pantalla completa si esta lo permite |   | .   | Hacer una captura de pantalla o iniciar una grabación de pantalla (también se puede hacer con el 3 o el 4) |   | .   |   |   | .",
+            "url": "https://curso0ur.github.io/blog/2022/05/06/Atajos-de-teclado.html",
+            "relUrl": "/2022/05/06/Atajos-de-teclado.html",
             "date": " • May 6, 2022"
         }
         
