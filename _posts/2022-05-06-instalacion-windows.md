@@ -1,6 +1,6 @@
 ---
 layout: post
-description: En este vídeo presentamos algunas instrucciones, recomendaciones y herramientas para instalar y desinstalar programas en Windows.
+description: En esta entrada presentamos algunas instrucciones, recomendaciones y herramientas para instalar y desinstalar programas en Windows.
 title: Instalación de programas
 author: Jesús María Aransay Azofra
 ---

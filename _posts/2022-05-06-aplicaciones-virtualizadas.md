@@ -1,6 +1,6 @@
 ---
 layout: post
-description: En el siguiente vídeo se explica el uso de las aplicaciones virtualizadas de la Universidad de La Rioja.
+description: En esta entrada se explica el uso de las aplicaciones virtualizadas de la Universidad de La Rioja.
 title: El administrador de tareas
 author: Beatriz Pérez Valle
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-description: En este vídeo vamos a ver diferentes técnicas y consejos que nos permitirán mejorar nuestras búsquedas en Google.
+description: En esta entrada vamos a ver diferentes técnicas y consejos que nos permitirán mejorar nuestras búsquedas en Google.
 title: Instalación de programas
 author: Ángela Casado-García, Manuel García-Domínguez y Adrián Inés Armas
 ---

@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: En los siguientes vídeos se muestra cómo trabajar con archivos comprimidos.
+description: En esta entrada se muestra cómo trabajar con archivos comprimidos.
 title: Archivos comprimidos.
 author: Patricia Pascual.
 ---

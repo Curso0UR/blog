@@ -1,6 +1,6 @@
 ---
 layout: post
-description: En este vídeo que explica que son los operadores lógicos junto con ejemplos de este tipo de operadores.
+description: En esta entrada se explican qué son los operadores lógicos junto con ejemplos de este tipo de operadores.
 title: Operadores lógicos
 author: César Domínguez y Eduardo Sáenz-de-Cabezón
 ---

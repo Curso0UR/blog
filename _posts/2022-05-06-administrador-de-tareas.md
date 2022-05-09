@@ -1,6 +1,6 @@
 ---
 layout: post
-description: En el siguiente vídeo se demuestra para qué sirve y cómo se usa el administrador de tareas. 
+description: En esta entrada se demuestra para qué sirve y cómo se usa el administrador de tareas. 
 title: El administrador de tareas
 author: Carlos Sáenz-Adán
 ---
