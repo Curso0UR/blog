@@ -2,7 +2,6 @@
 toc: true
 layout: post
 description: En los siguientes vídeos se dan unos consejos prácticos de cómo usar el correo electrónico.
-categories: [markdown]
 title: El correo electrónico
 author: Angel Luís Rubio García y María Antonia Zapata
 ---
