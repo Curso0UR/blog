@@ -1,7 +1,7 @@
 ---
 layout: post
 description: En esta entrada vamos a ver diferentes técnicas y consejos que nos permitirán mejorar nuestras búsquedas en Google.
-title: Instalación de programas
+title: Búsquedas en Google
 author: Ángela Casado-García, Manuel García-Domínguez y Adrián Inés Armas
 ---
 
